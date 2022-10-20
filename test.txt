@@ -1,0 +1,15 @@
+state: RUNNING
+owner_pid   : 19229
+trigger time: 8393.217868503
+tstamp
+8454.826978244
+delay
+8929
+avail
+79888
+avail max
+79888
+hw ptr
+appl_ptr
+2717677
+2725989
