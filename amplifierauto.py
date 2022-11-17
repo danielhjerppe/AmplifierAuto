@@ -4,12 +4,12 @@ import time
 
 testing = False
 
-broker = '10.0.1.10'
+broker = 'xx.xx.xx.xx' # Insert IP address of MQTT broker here
 port = 1883
 topic = "room/amplifier"
 client_id = f'python-mqtt-{random.randint(0, 1000)}'
-# username = 'emqx'
-# password = 'public'
+# username = 'xxxx'
+# password = 'xxxx'
 
 def connect_mqtt():
     def on_connect(client, userdata, flags, rc):
